@@ -1,5 +1,5 @@
 ### Hi there, I'm Adam 👋
-## I'm aspiring Front-end Web Developer💻 and Gamer hobbyst⚙️
+## I'm aspiring Front-end Web Developer💻 and Streamer hobbyst⚙️
 I like learning new skills and expanding my current knowledge
 
 ### 💻 Tech Stack
@@ -21,6 +21,18 @@ I like learning new skills and expanding my current knowledge
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+### 🌱 I’m currently learning *vitest*
+![Vitest](https://zixuanchen.gallerycdn.vsassets.io/extensions/zixuanchen/vitest-explorer/0.2.43/1697631190666/Microsoft.VisualStudio.Services.Icons.Default)
+
+### 🖥️ I’m currently working on:
+[![Cooking Blog](https://github-readme-stats.vercel.app/api/pin/?username=Amanowsky&repo=Cooking_Blog&theme=bear)](https://github.com/Amanowsky/Cooking_Blog) \
+[![Cooking Blog](https://github-readme-stats.vercel.app/api/pin/?username=Amanowsky&repo=multi-step-form&theme=bear)](https://github.com/Amanowsky/multi-step-form)
+
+
+### 📊 GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanowsky&show_icons=true&theme=bear)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanowsky&layout=compact&theme=bear)
 <!--
 **Amanowsky/Amanowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
