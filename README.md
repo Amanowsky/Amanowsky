@@ -1,5 +1,5 @@
 ### Hi there, I'm Adam 👋
-## I'm aspiring Front-end Web Developer💻 and Streamer hobbyst⚙️
+## I'm aspiring Front-end Web Developer💻 and Gamer hobbyst⚙️
 I like learning new skills and expanding my current knowledge
 
 ### 💻 Tech Stack
