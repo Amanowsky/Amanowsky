@@ -31,8 +31,8 @@ I like learning new skills and expanding my current knowledge
 
 
 ### 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanowsky&show_icons=true&theme=bear) \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanowsky&layout=compact&theme=bear)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanowsky&show_icons=true&theme=bear) \
 <!--
 **Amanowsky/Amanowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
