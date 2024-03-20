@@ -27,7 +27,7 @@ I like learning new skills and expanding my current knowledge
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### 🖥️ I’m currently working on:
-[![Cooking Blog](https://github-readme-stats.vercel.app/api/pin/?username=Amanowsky&repo=Cooking_Blog&theme=bear)]([https://github.com/Amanowsky/Cooking_Blog](https://github.com/users/Amanowsky/projects/5/views/1)) \
+[![Cooking Blog](https://github-readme-stats.vercel.app/api/pin/?username=Amanowsky&repo=Cooking_Blog&theme=bear)](https://github.com/Amanowsky/Cooking_Blog) \
 
 
 ### 📊 GitHub Stats:
@@ -47,4 +47,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
